@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/dotchev/go-sofia/internal/diagnostics"
 	"github.com/gorilla/mux"
+	"github.com/rumyantseva/go-sofia/internal/diagnostics"
 )
 
 type serverConf struct {
