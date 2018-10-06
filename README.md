@@ -1,0 +1,2 @@
+# go-sofia
+Go workshop
